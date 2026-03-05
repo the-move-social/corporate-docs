@@ -10,7 +10,7 @@ The name of the corporation is **The Move Social, Inc.**
 
 ## SECOND
 
-The address of the registered office of the corporation in the State of Delaware is that of its registered agent: **Northwest Registered Agent, Inc.**, 131 Continental Dr, Suite 305, Newark, Delaware 19713, County of New Castle.
+The address of the registered office of the corporation in the State of Delaware is that of its registered agent: **Northwest Registered Agent Service, Inc.**, 8 The Green, STE B, Dover, Delaware 19901, County of Kent.
 
 ## THIRD
 
@@ -46,17 +46,18 @@ Class A Common Stock shall not be convertible into Class B Common Stock. Class B
 
 The name and mailing address of the incorporator is:
 
-**Northwest Registered Agent, Inc.**
-131 Continental Dr, Suite 305
-Newark, Delaware 19713
+**Eric Garcia**
+10 River Rd Apt 10C
+New York, NY 10044
 
 ## SIXTH
 
 The following provisions are for the management of the business and for the conduct of the affairs of the corporation:
 
 1. The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors.
-2. The number of directors shall be fixed from time to time exclusively by resolution of the Board of Directors.
-3. The directors need not be elected by written ballot unless the Bylaws so provide.
+2. Present Tense Labs, Inc., as the sole holder of Class A Common Stock, shall have the exclusive right to appoint and remove directors and to fix the number of directors from time to time.
+3. Holders of Class B Common Stock shall have no right to appoint, remove, or vote for the election of directors.
+4. The directors need not be elected by written ballot unless the Bylaws so provide.
 
 ## SEVENTH
 
@@ -74,10 +75,6 @@ The corporation reserves the right to amend, alter, change, or repeal any provis
 
 ```
 ________________________________________
-Northwest Registered Agent, Inc.
+Eric Garcia
 Incorporator
 ```
-
----
-
-*Note: Northwest Registered Agent typically files their own standard Certificate of Incorporation. This draft serves as a reference for the terms you want included. Confirm with Northwest that the authorized share count (10,000,000) and par value ($0.00001) are reflected in the filed document.*
