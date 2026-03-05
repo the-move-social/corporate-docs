@@ -113,6 +113,18 @@ Options may be exercised by delivering written notice to the Company specifying 
 
 (b) Such other methods as the Administrator may approve.
 
+### 5.6A Early Exercise
+
+The Administrator may, in its discretion, permit an optionee to exercise options prior to vesting ("Early Exercise"). Shares acquired through Early Exercise that have not yet vested ("Unvested Shares") shall be subject to:
+
+(a) A Company repurchase right at the original exercise price paid per share, exercisable within ninety (90) days of the optionee's termination of service for any reason other than Cause;
+
+(b) Upon termination for Cause, immediate forfeiture of all shares (vested and unvested) pursuant to Section 5.8;
+
+(c) The restrictions and repurchase right shall lapse as shares vest according to the vesting schedule specified in the applicable Stock Option Grant Agreement.
+
+The Company shall provide each optionee who elects Early Exercise with a pre-filled Section 83(b) election form and written filing instructions. The optionee shall deliver proof of 83(b) filing to the Company within thirty-five (35) days of exercise.
+
 ### 5.7 Termination of Service
 
 Upon termination of the optionee's service relationship with the Company:
@@ -261,8 +273,8 @@ The Plan shall be governed by and construed in accordance with the laws of the S
 
 ```
 ________________________________________
-Altin Lecaj, Co-CEO and Director
+Altin Lecaj, CEO and Director
 
 ________________________________________
-Eric Garcia, Co-CEO and Director
+Eric Garcia, CTO and Director
 ```

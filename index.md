@@ -31,8 +31,8 @@ Class A and Class B have **identical economic rights** (dividends, distributions
 
 | Name | Role |
 |------|------|
-| Altin Lecaj | Co-CEO, Director, Secretary, Treasurer |
-| Eric Garcia | Co-CEO, Director, Secretary, Treasurer |
+| Altin Lecaj | CEO, Director, Secretary, Treasurer |
+| Eric Garcia | CTO, Director, Secretary, Treasurer |
 
 Directors are appointed by PTL as the sole voting stockholder.
 

@@ -214,10 +214,10 @@ Notwithstanding the foregoing, either party may seek injunctive or other equitab
 Present Tense Labs, Inc.
 
 ________________________________________
-By: Altin Lecaj, Co-CEO
+By: Altin Lecaj, CEO
 
 ________________________________________
-By: Eric Garcia, Co-CEO
+By: Eric Garcia, CTO
 ```
 
 **LICENSEE:**
@@ -226,10 +226,10 @@ By: Eric Garcia, Co-CEO
 The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, Co-CEO
+By: Altin Lecaj, CEO
 
 ________________________________________
-By: Eric Garcia, Co-CEO
+By: Eric Garcia, CTO
 ```
 
 ---

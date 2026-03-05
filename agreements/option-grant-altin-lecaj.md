@@ -9,7 +9,7 @@
 This Stock Option Grant Agreement (the "Agreement") is entered into between:
 
 - **The Move Social, Inc.**, a Delaware corporation (the "Company")
-- **[OPTIONEE NAME]**, an individual (the "Optionee")
+- **Altin Lecaj**, an individual (the "Optionee")
 
 This option is granted under and subject to the terms of the Company's Equity Incentive Plan (the "Plan"). In the event of any conflict between this Agreement and the Plan, the Plan shall govern.
 
@@ -19,9 +19,9 @@ This option is granted under and subject to the terms of the Company's Equity In
 
 | Field | Value |
 |-------|-------|
-| Optionee | [OPTIONEE NAME] |
-| Total Shares Subject to Option | [NUMBER] shares of Class B Common Stock (non-voting) |
-| Exercise Price Per Share | $[PRICE] (based on 409A valuation dated ________) |
+| Optionee | Altin Lecaj |
+| Total Shares Subject to Option | 100,000 shares of Class B Common Stock (non-voting) |
+| Exercise Price Per Share | $_________ (based on 409A valuation dated _________) |
 | Type of Option | Non-Qualified Stock Option (NSO) |
 | Grant Date | _________________ |
 | Vesting Commencement Date | _________________ |
@@ -35,8 +35,8 @@ The option shall vest and become exercisable according to the following schedule
 
 | Milestone | Shares Vested | Cumulative |
 |-----------|--------------|------------|
-| 1st anniversary of Vesting Commencement Date | 25% of total shares | 25% |
-| Each month thereafter for 36 months | 1/48 of total shares per month | 25% → 100% |
+| 1st anniversary of Vesting Commencement Date | 25% of total shares (25,000) | 25% |
+| Each month thereafter for 36 months | 1/48 of total shares (~2,083) per month | 25% → 100% |
 
 **Cliff:** No shares vest before the first anniversary of the Vesting Commencement Date. If the Optionee's service terminates before the first anniversary, no shares vest and the option is forfeited in its entirety.
 
@@ -242,16 +242,16 @@ If mediation is unsuccessful, the dispute shall be submitted to binding arbitrat
 The Move Social, Inc.
 
 ________________________________________
-By: ________________________, CEO
+By: Eric Garcia, CTO
 ```
 
 **OPTIONEE:**
 
 ```
 ________________________________________
-[OPTIONEE NAME]
+Altin Lecaj
 
-Address: ________________________________________
+Address: 10 River Rd Apt 10C, New York, NY 10044
 
 Email: ________________________________________
 ```
@@ -263,10 +263,10 @@ Email: ________________________________________
 | Date | Event | Shares Vested | Cumulative Vested |
 |------|-------|---------------|-------------------|
 | Grant Date | Option granted | 0 | 0 |
-| Grant + 12 months | Cliff vests | 25% | 25% |
-| Grant + 13 months | Monthly vest | +1/48 | ~27% |
-| ... | Monthly vest | +1/48 | ... |
-| Grant + 48 months | Fully vested | +1/48 | 100% |
+| Grant + 12 months | Cliff vests | 25,000 | 25,000 (25%) |
+| Grant + 13 months | Monthly vest | +2,083 | ~27,083 (27%) |
+| ... | Monthly vest | +2,083 | ... |
+| Grant + 48 months | Fully vested | +2,083 | 100,000 (100%) |
 
 ---
 
@@ -278,22 +278,22 @@ The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Interna
 
 | Field | Value |
 |-------|-------|
-| Taxpayer Name | [OPTIONEE NAME] |
-| Taxpayer Address | [ADDRESS] |
-| Social Security Number | [SSN] |
-| Taxable Year | [YEAR] |
-| Description of Property | [NUMBER] shares of Class B Common Stock (non-voting) of The Move Social, Inc. |
-| Date of Transfer | [DATE OF EXERCISE] |
+| Taxpayer Name | Altin Lecaj |
+| Taxpayer Address | 10 River Rd Apt 10C, New York, NY 10044 |
+| Social Security Number | ________________________ |
+| Taxable Year | _________ |
+| Description of Property | 100,000 shares of Class B Common Stock (non-voting) of The Move Social, Inc. |
+| Date of Transfer | ________________________ (date of exercise) |
 | Nature of Restriction | Shares subject to vesting schedule and company repurchase right at original exercise price for unvested shares |
-| Fair Market Value at Transfer | $[FMV] per share x [NUMBER] shares = $[TOTAL FMV] |
-| Amount Paid | $[PRICE] per share x [NUMBER] shares = $[TOTAL PAID] |
-| Amount to Include in Gross Income | $[FMV TOTAL - PAID TOTAL] |
+| Fair Market Value at Transfer | $_________ per share x 100,000 shares = $_________ |
+| Amount Paid | $_________ per share x 100,000 shares = $_________ |
+| Amount to Include in Gross Income | $_________ |
 
 A copy of this election has been furnished to The Move Social, Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
 
 ```
 ________________________________________
-[OPTIONEE NAME]
+Altin Lecaj
 Date: ________________________
 
 ```

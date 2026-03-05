@@ -136,10 +136,10 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, Co-CEO
+By: Altin Lecaj, CEO
 
 ________________________________________
-By: Eric Garcia, Co-CEO
+By: Eric Garcia, CTO
 ```
 
 **SUBSCRIBER:**
@@ -148,8 +148,8 @@ By: Eric Garcia, Co-CEO
 Present Tense Labs, Inc.
 
 ________________________________________
-By: Altin Lecaj, Co-CEO
+By: Altin Lecaj, CEO
 
 ________________________________________
-By: Eric Garcia, Co-CEO
+By: Eric Garcia, CTO
 ```

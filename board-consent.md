@@ -25,8 +25,8 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 | Officer | Name |
 |---------|------|
-| Co-Chief Executive Officer | Altin Lecaj |
-| Co-Chief Executive Officer | Eric Garcia |
+| Chief Executive Officer (CEO) | Altin Lecaj |
+| Chief Technology Officer (CTO) | Eric Garcia |
 | Secretary | Altin Lecaj and Eric Garcia (jointly) |
 | Treasurer | Altin Lecaj and Eric Garcia (jointly) |
 
@@ -82,7 +82,40 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 **RESOLVED**, that the officers are authorized to pay all expenses incurred in connection with the organization and incorporation of the Corporation.
 
-### 14. Omnibus Resolution
+### 14. 409A Valuation
+
+**RESOLVED**, that the officers of the Corporation are authorized and directed to commission a Section 409A valuation of the Corporation's Class B Common Stock from a qualified independent valuation provider (including but not limited to Carta, Pulley, or an independent valuation firm), at a cost not to exceed $5,000, for the purpose of establishing a fair market value strike price for stock option grants under the Plan.
+
+### 15. Stock Option Grants — Founding Team
+
+**RESOLVED**, that upon completion of the 409A valuation referenced in Resolution 14, the following Non-Qualified Stock Option grants under the Equity Incentive Plan are hereby approved, each with an exercise price equal to the 409A fair market value per share and with early-exercise provisions:
+
+| Optionee | Role | Shares | Vesting | Relationship |
+|----------|------|--------|---------|-------------|
+| Altin Lecaj | CEO | 100,000 Class B | 4yr / 1yr cliff | Consultant |
+| Eric Garcia | CTO | 100,000 Class B | 4yr / 1yr cliff | Consultant |
+| Dana Vines | President of Sales | 100,000 Class B | 4yr / 1yr cliff | Independent Contractor |
+| Paul Wand | Founding Engineer | 100,000 Class B | 4yr / 1yr cliff | Independent Contractor |
+
+**FURTHER RESOLVED**, that each optionee's vesting commencement date shall be the date on which the optionee commences services to the Corporation, which may precede the grant date.
+
+**FURTHER RESOLVED**, that each Stock Option Grant Agreement shall include (a) an early-exercise provision permitting exercise prior to vesting, (b) a Company repurchase right on unvested exercised shares at original cost, and (c) a Section 83(b) election backstop package.
+
+**FURTHER RESOLVED**, that the officers are authorized to negotiate and execute Independent Contractor Agreements with Dana Vines and Paul Wand in connection with these grants.
+
+### 16. Pool Management Covenant
+
+**RESOLVED**, that the Board adopts the following pool management covenant:
+
+(a) The grants authorized in Resolution 15 total 400,000 of 1,500,000 shares reserved under the Plan (26.7% of the pool);
+
+(b) 500,000 shares shall be reserved from the remaining 1,100,000 shares to satisfy any pool expansion requirement in connection with the Corporation's first institutional financing round;
+
+(c) Before or concurrent with any seed or Series A financing, the Board shall seek an amendment to the Certificate of Incorporation to increase the authorized Class B Common Stock as needed to maintain a competitive option pool;
+
+(d) Present Tense Labs, Inc., as the sole Class A stockholder, shall provide the stockholder consent required for any such amendment.
+
+### 17. Omnibus Resolution
 
 **RESOLVED**, that the officers of the Corporation are authorized and directed to take any and all actions and execute any and all documents necessary or appropriate to carry out the purposes and intent of the foregoing resolutions.
 
