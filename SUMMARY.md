@@ -21,30 +21,33 @@
 - [IP License Agreement](ip-license-agreement.md)
 - [Intercompany Services Agreement](intercompany-services-agreement.md)
 
-# Executed Agreements
+# Draft Agreements
 
 - [Founders' Agreement](agreements/founders-agreement.md)
 - [Stockholders' Agreement](agreements/stockholders-agreement.md)
 - [IP Assignment Agreement](agreements/ip-assignment-agreement.md)
 
-## Contractor Agreements
+## Eric Garcia
 
-- [Eric Garcia](agreements/contractor-eric-garcia.md)
-- [Altin Lecaj](agreements/contractor-altin-lecaj.md)
-- [Paul Wand](agreements/contractor-paul-wand.md)
-- [Dana Vines](agreements/contractor-dana-vines.md)
+- [Contractor Agreement](agreements/contractor-eric-garcia.md)
+- [Stock Option Grant](agreements/option-grant-eric-garcia.md)
+- [Stock Purchase Agreement](agreements/stock-purchase-agreement-eric-garcia.md)
 
-## Stock Option Grants
+## Altin Lecaj
 
-- [Eric Garcia](agreements/option-grant-eric-garcia.md)
-- [Altin Lecaj](agreements/option-grant-altin-lecaj.md)
-- [Paul Wand](agreements/option-grant-paul-wand.md)
-- [Dana Vines](agreements/option-grant-dana-vines.md)
+- [Contractor Agreement](agreements/contractor-altin-lecaj.md)
+- [Stock Option Grant](agreements/option-grant-altin-lecaj.md)
+- [Stock Purchase Agreement](agreements/stock-purchase-agreement-altin-lecaj.md)
 
-## Stock Purchase Agreements
+## Paul Wand
 
-- [Eric Garcia](agreements/stock-purchase-agreement-eric-garcia.md)
-- [Altin Lecaj](agreements/stock-purchase-agreement-altin-lecaj.md)
+- [Contractor Agreement](agreements/contractor-paul-wand.md)
+- [Stock Option Grant](agreements/option-grant-paul-wand.md)
+
+## Dana Vines
+
+- [Contractor Agreement](agreements/contractor-dana-vines.md)
+- [Stock Option Grant](agreements/option-grant-dana-vines.md)
 
 # Planning
 
