@@ -20,10 +20,8 @@
 
 - [Eric Garcia](agreements/eric-garcia.md)
   - [Contractor Agreement](agreements/contractor-eric-garcia.md)
-  - [Stock Option Grant](agreements/option-grant-eric-garcia.md)
 - [Altin Lecaj](agreements/altin-lecaj.md)
   - [Contractor Agreement](agreements/contractor-altin-lecaj.md)
-  - [Stock Option Grant](agreements/option-grant-altin-lecaj.md)
 - [Paul Wand](agreements/paul-wand.md)
   - [Contractor Agreement](agreements/contractor-paul-wand.md)
   - [Stock Option Grant](agreements/option-grant-paul-wand.md)

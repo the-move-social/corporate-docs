@@ -77,14 +77,12 @@ The Move Social operates **The Move**, a social adventure app that turns real-wo
 | **Award Types** | NSOs (all participants are contractors, not employees) |
 | **Vesting** | 4-year, 1-year cliff, monthly thereafter |
 | **Early Exercise** | Permitted, with 83(b) election support |
-| **Grants Pending** | 400,000 shares (4 grants of 100,000 each) |
+| **Grants Pending** | 200,000 shares (2 grants of 100,000 each) |
 
 ### Planned Initial Grants (Pending 409A Completion)
 
 | Optionee | Role | Shares | % Fully Diluted |
 |----------|------|--------|-----------------|
-| Altin Lecaj | CEO | 100,000 | 1.0% |
-| Eric Garcia | CTO | 100,000 | 1.0% |
 | Dana Vines | President of Sales | 100,000 | 1.0% |
 | Paul Wand | Founding Engineer | 100,000 | 1.0% |
 

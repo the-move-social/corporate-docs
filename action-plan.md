@@ -25,15 +25,16 @@ Altin Lecaj & Eric Garcia | March 2026
 
 ---
 
-## Phase 3: Register The Move Social, Inc. — COMPLETE
+## Phase 3: Register The Move Social, Inc. — IN PROGRESS
 
-- [x] Entity formed: **The Move Social, Inc.** — Delaware C-Corp
-- [x] Dual-class structure in Certificate of Incorporation:
+- [ ] Entity formed: **The Move Social, Inc.** — Delaware C-Corp via Northwest Registered Agent
+- [ ] Dual-class structure in Certificate of Incorporation:
   - Class A Common Stock (voting): 8,500,000 shares — 4,250,000 each to Altin and Eric
   - Class B Common Stock (non-voting): 1,500,000 shares — EIP pool
-- [x] Registered agent: Northwest (Delaware)
-- [x] Certificate of Incorporation received
-- [x] EIN received from IRS
+- [ ] Registered agent: Northwest (Delaware)
+- [ ] Certificate of Incorporation received
+- [ ] File Amended and Restated Certificate of Incorporation (dual-class structure)
+- [ ] EIN received from IRS
 
 ---
 
@@ -163,19 +164,15 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 
 ### Board Resolution
 
-- [ ] Board consent approving all four grants, 409A commissioning, and pool management covenant (Resolutions 14-16 of Board Consent)
+- [ ] Board consent approving grants, 409A commissioning, and pool management covenant (Resolutions 14-16 of Board Consent)
 
 ### Stock Option Grants (All NSOs with Early Exercise)
 
 | Optionee | Role | Shares | Ownership | Relationship |
 |----------|------|--------|-----------|-------------|
-| Altin Lecaj | CEO | 100,000 | 1.0% | Consultant |
-| Eric Garcia | CTO | 100,000 | 1.0% | Consultant |
 | Dana Vines | President of Sales | 100,000 | 1.0% | Independent Contractor |
 | Paul Wand | Founding Engineer | 100,000 | 1.0% | Independent Contractor |
 
-- [ ] Execute Stock Option Grant Agreement — Altin Lecaj (100,000 NSO)
-- [ ] Execute Stock Option Grant Agreement — Eric Garcia (100,000 NSO)
 - [ ] Execute Stock Option Grant Agreement — Dana Vines (100,000 NSO)
 - [ ] Execute Stock Option Grant Agreement — Paul Wand (100,000 NSO)
 
@@ -192,9 +189,9 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 | Metric | Value |
 |--------|-------|
 | Total pool | 1,500,000 Class B shares |
-| Granted | 400,000 (26.7% of pool) |
+| Granted | 200,000 (13.3% of pool) |
 | Reserved for seed round | 500,000 |
-| Available for future grants | 600,000 (6% fully diluted) |
+| Available for future grants | 800,000 (8% fully diluted) |
 
 ---
 

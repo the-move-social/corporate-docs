@@ -93,8 +93,6 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 | Optionee | Role | Shares | Vesting | Relationship |
 |----------|------|--------|---------|-------------|
-| Altin Lecaj | CEO | 100,000 Class B | 4yr / 1yr cliff | Consultant |
-| Eric Garcia | CTO | 100,000 Class B | 4yr / 1yr cliff | Consultant |
 | Dana Vines | President of Sales | 100,000 Class B | 4yr / 1yr cliff | Independent Contractor |
 | Paul Wand | Founding Engineer | 100,000 Class B | 4yr / 1yr cliff | Independent Contractor |
 
@@ -108,9 +106,9 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 **RESOLVED**, that the Board adopts the following pool management covenant:
 
-(a) The grants authorized in Resolution 15 total 400,000 of 1,500,000 shares reserved under the Plan (26.7% of the pool);
+(a) The grants authorized in Resolution 15 total 200,000 of 1,500,000 shares reserved under the Plan (13.3% of the pool);
 
-(b) 500,000 shares shall be reserved from the remaining 1,100,000 shares to satisfy any pool expansion requirement in connection with the Corporation's first institutional financing round;
+(b) 500,000 shares shall be reserved from the remaining 1,300,000 shares to satisfy any pool expansion requirement in connection with the Corporation's first institutional financing round;
 
 (c) Before or concurrent with any seed or Series A financing, the Board shall seek an amendment to the Certificate of Incorporation to increase the authorized Class B Common Stock as needed to maintain a competitive option pool;
 
